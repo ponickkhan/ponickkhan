@@ -19,13 +19,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=ponickkhan&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/ponickkhan/ponickkhan?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+ <a href="https://github.com/Kponickkhan/ponickkhan/actions">
+   <img alt="github-activity" src="https://github.com/ponickkhan/ponickkhan/workflows/update-gh-activity/badge.svg">
+  </a>
+</p>
+</br>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+</br>
 
-<!-- - 📫 Let's get social: <a href="https://www.linkedin.com/in/ponick/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>   -->
+## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- 🤓 I'm PHP Advocate (a.k.a. Evangelist)
+- 🤓 I'm a Web Developer
 - 💬 Let's talk about Software Architecture, PHP, Security, Development Patterns.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
 - From **Bangladesh** 🇧🇩, now based in **Dhaka**
+
+
+
+<!-- - 📫 Let's get social: <a href="https://www.linkedin.com/in/ponick/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>   -->
+
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
