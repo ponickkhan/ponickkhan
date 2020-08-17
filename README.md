@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🤓 I'm PHP Advocate (a.k.a. Evangelist)
 - 💬 Let's talk about Software Architecture, PHP, Security, Development Patterns.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
-- Originally from **Medellin** 🇨🇴, now based in **Amsterdam** 🇳🇱
+- From **Bangladesh** 🇧🇩, now based in **Dhaka**
 
 ## Some of my Github Stats
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=ponickkhan&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/ponickkhan/github-readme-stats)
