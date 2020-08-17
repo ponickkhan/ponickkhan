@@ -1,8 +1,11 @@
 # Hello there 👋, I'm Rafi! 🦦
 
 **Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/-ponick-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ponick)](https://www.linkedin.com/in/ponick/) [![Github Badge](https://img.shields.io/badge/-ponickkhan-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ponickkhan/)](https://www.github.com/ponickkhan/) ![Profile views](https://gpvc.arturio.dev/ponickkhan)
+[![Linkedin Badge](https://img.shields.io/badge/-ponick-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ponick)](https://www.linkedin.com/in/ponick/) 
 
+![Profile views](https://gpvc.arturio.dev/ponickkhan)
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=ponickkhan&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/ponickkhan/ponickkhan?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
 <!--
@@ -20,11 +23,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=ponickkhan&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/ponickkhan/ponickkhan?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
- <a href="https://github.com/Kponickkhan/ponickkhan/actions">
-   <img alt="github-activity" src="https://github.com/ponickkhan/ponickkhan/workflows/update-gh-activity/badge.svg">
-  </a>
+
+
 </p>
 </br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
