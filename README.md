@@ -1,7 +1,7 @@
 # Hello there 👋, I'm Rafi! 🦦
 
 **Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/-ponickkhan-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ponickkhan/)](https://www.linkedin.com/in/andresponickkhan12/) [![Github Badge](https://img.shields.io/badge/-ponickkhan-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ponickkhan/)](https://www.github.com/ponickkhan/) ![Profile views](https://gpvc.arturio.dev/ponickkhan)
+[![Linkedin Badge](https://img.shields.io/badge/-ponick-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ponick)](https://www.linkedin.com/in/ponick/) [![Github Badge](https://img.shields.io/badge/-ponickkhan-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ponickkhan/)](https://www.github.com/ponickkhan/) ![Profile views](https://gpvc.arturio.dev/ponickkhan)
 
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- - 📫 Let's get social: <a href="https://www.linkedin.com/in/ponickkhan/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>   -->
+<!-- - 📫 Let's get social: <a href="https://www.linkedin.com/in/ponick/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>   -->
 
 - 🤓 I'm PHP Advocate (a.k.a. Evangelist)
 - 💬 Let's talk about Software Architecture, PHP, Security, Development Patterns.
