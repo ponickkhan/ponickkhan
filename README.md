@@ -1,10 +1,7 @@
 # Hello there 👋, I'm Rafi! 🦦
 
-**Get in touch:**
-[![Linkedin Badge](https://img.shields.io/badge/-ponick-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ponick)](https://www.linkedin.com/in/ponick/) 
 
 ![Profile views](https://gpvc.arturio.dev/ponickkhan)
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=ponickkhan&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/ponickkhan/ponickkhan?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
@@ -22,11 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
 
-
-</p>
-</br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
 
