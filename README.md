@@ -1,7 +1,7 @@
 # Hello there 👋, I'm Rafi! 🦦
 
 
-![Profile views](https://gpvc.arturio.dev/ponickkhan)
+![PROFILE VIEWS](https://gpvc.arturio.dev/ponickkhan)
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/ponickkhan/ponickkhan?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 <!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
 
