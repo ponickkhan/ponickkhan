@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Rafi! 🦦
+# Hello there 👋, I'm Rafi! 
 
 
 ![PROFILE VIEWS](https://gpvc.arturio.dev/ponickkhan)
@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 </br>
 
-## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+## &nbsp; **About Me**
 
-- 🤓 I'm a Web Developer
+- 🤓 I'm a Backend Developer
 - 💬 Let's talk about Software Architecture, PHP, Security, Development Patterns.
 - 🏆 I'm an avid improver. Continuously learning how to make the world better.
 - From **Bangladesh** 🇧🇩, now based in **Dhaka**
