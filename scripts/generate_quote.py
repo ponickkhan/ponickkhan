@@ -12,7 +12,7 @@ def getResponse(url):
 
 def write_to_readme(static_readme , quote):
     lines  = open(static_readme , 'r').readlines()
-    lines +='\nquote of the day :\n'
+    lines +='\nQuote of the day :\n'
     lines += quote+'\n'
     open('./README.md' , 'w').writelines(lines)
 
@@ -21,7 +21,7 @@ def main():
     quote_response = getResponse(url_eng)
     context = quote_response['en']
     author = quote_response['author']
-    quote = context + " -" + author
+    quote = context + " - " + author
     # print(quote)
     static_readme = './static_readme.md'
     write_to_readme(static_readme , quote)
