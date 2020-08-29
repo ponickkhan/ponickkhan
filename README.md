@@ -58,5 +58,5 @@ Here are some ideas to get you started:
 
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
-quote of the day :
-The first false assumption that underlies the scheduling of systems programming is that all will go well, i.e., that each task will hike only as long as it "ought" to take. A large programming effort, however, consists of many tasks, some chained end-to-end. The probability that each will go well becomes vanishingly small. -Fred Brooks
+Quote of the day :
+Every good work of software starts by scratching a developer’s personal itch. - Eric S. Raymond
