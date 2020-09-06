@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-I'm not a great programmer; I'm just a good programmer with great habits. - Kent Beck
+The best minds of my generation are thinking about how to make people click ads. - Jeff Hammerbacher
