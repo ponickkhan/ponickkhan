@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-Within a computer, natural language is unnatural. - Alan Perlis
+They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind. - Ted Nelson
