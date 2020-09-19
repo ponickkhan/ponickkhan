@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that. - Ken Thompson
+The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself. - Donald Knuth
