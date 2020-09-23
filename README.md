@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value. - Ada Lovelace
+Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road. - Stewart Brand
