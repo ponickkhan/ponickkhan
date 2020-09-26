@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-The top 5% of programmers probably write 99% of the good software. - Paul Graham (programmer)
+The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman. - Alan Perlis
