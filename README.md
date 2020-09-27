@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman. - Alan Perlis
+Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you. - Richard P. Gabriel
