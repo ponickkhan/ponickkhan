@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you. - Richard P. Gabriel
+I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard. - Steve Jobs
