@@ -59,5 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small. - Bob Frankston
+I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript. - Douglas Crockford
