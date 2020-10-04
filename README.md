@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-It’s all talk until the code runs. - Ward Cunningham
+The most important single aspect of software development is to be clear about what you are trying to build. - Bjarne Stroustrup
