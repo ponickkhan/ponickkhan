@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
+Talk is cheap. Show me the code. - Linus Torvalds
