@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-If you think your users are idiots, only idiots will use it. - Linus Torvalds
+A lot of companies hire people to tell them what to do. We hire people to tell us what to do. - Steve Jobs
