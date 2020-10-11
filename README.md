@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-The programs we use to conjure processes are like a sorcerer's spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages that prescribe the tasks we want our processes to perform. - Hal Abelson
+Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change. - Daniel T. Barry
