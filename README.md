@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change. - Daniel T. Barry
+The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device. - Danny Hillis
