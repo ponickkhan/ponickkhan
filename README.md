@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device. - Danny Hillis
+One of my most productive days was throwing away 1,000 lines of code. - Ken Thompson
