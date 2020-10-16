@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-In order to understand recursion, one must first understand recursion. - Anonymous
+Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it. - Anders Hejlsberg
