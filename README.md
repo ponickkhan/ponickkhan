@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it. - Anders Hejlsberg
+Walking on water and developing software from a specification are easy if both are frozen. - Edward V. Berard
