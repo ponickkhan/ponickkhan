@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-Walking on water and developing software from a specification are easy if both are frozen. - Edward V. Berard
+There are few sources of energy so powerful as a procrastinating grad student. - Paul Graham (programmer)
