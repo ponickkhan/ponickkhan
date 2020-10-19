@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-There are few sources of energy so powerful as a procrastinating grad student. - Paul Graham (programmer)
+You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity. - John Romero
