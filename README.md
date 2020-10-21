@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration. - Ray Ozzie
+Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal. - Joseph Yoder (computer scientist)
