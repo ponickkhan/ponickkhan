@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-If you think your users are idiots, only idiots will use it. - Linus Torvalds
+Most errors are introduced during requirements specification! - Daniel T. Barry
