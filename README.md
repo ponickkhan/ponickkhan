@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-Simplicity does not precede complexity, but follows it. - Alan Perlis
+As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout. - Gottfried Wilhelm Leibniz
