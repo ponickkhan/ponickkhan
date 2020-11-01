@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-Modern programming scares me in many respects. It confuses me to read a program which you must read top-down. It says “do something.” And you go find “something.” And you read it and it says, “do something else” and you go find something and it says, “do something else” and it goes back to the top maybe. And nothing gets done. It’s just relegating the problem to a deeper and deeper level. - Ken Thompson
+Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves. - Alan Kay
