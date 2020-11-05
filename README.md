@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do. - Vint Cerf
+Code never lies, comments sometimes do. - Ron Jeffries
