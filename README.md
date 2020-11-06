@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-Code never lies, comments sometimes do. - Ron Jeffries
+The more code you have, the more places there are for bugs to hide. - Rich Skrenta
