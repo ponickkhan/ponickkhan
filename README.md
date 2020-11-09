@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard. - Ken Thompson
+There are few sources of energy so powerful as a procrastinating grad student. - Paul Graham (programmer)
