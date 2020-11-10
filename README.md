@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-There are few sources of energy so powerful as a procrastinating grad student. - Paul Graham (programmer)
+The limits of my language mean the limits of my world. - Ludwig Wittgenstein
