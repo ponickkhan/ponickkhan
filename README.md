@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 <!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
 
 Quote of the day :
-The limits of my language mean the limits of my world. - Ludwig Wittgenstein
+I'm interested in creating images that communicate with people. - Toru Iwatani
