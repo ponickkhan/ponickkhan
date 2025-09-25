@@ -1,4 +1,3 @@
-# scripts/generate_quote.py
 import time
 import json
 import random
@@ -8,8 +7,8 @@ import re
 import html
 from typing import Optional, Dict, Any
 
-# Primary API (may be blocked in some environments; script has robust fallback)
-URL_ENG = "https://dev-quote.42web.io"
+# Update this URL to point to your actual API endpoint
+URL_ENG = "https://dev-quote.42web.io"  # Change this to your actual domain
 UA = "Mozilla/5.0 (compatible; GitHubActionsBot/1.0; +https://github.com/ponickkhan)"
 
 # Curated fallback quotes (used if API fails/blocks)
@@ -22,7 +21,7 @@ FALLBACK_QUOTES = [
     {"quote": "First, solve the problem. Then, write the code.", "author": "John Johnson"},
     {"quote": "Experience is the name everyone gives to their mistakes.", "author": "Oscar Wilde"},
     {"quote": "Java is to JavaScript what car is to Carpet.", "author": "Chris Heilmann"},
-    {"quote": "Code is like humor. When you have to explain it, it’s bad.", "author": "Cory House"},
+    {"quote": "Code is like humor. When you have to explain it, it's bad.", "author": "Cory House"},
     {"quote": "Fix the cause, not the symptom.", "author": "Steve Maguire"},
     {"quote": "Optimism is an occupational hazard of programming: feedback is the treatment.", "author": "Kent Beck"},
     {"quote": "Simplicity is prerequisite for reliability.", "author": "Edsger W. Dijkstra"},
@@ -30,7 +29,7 @@ FALLBACK_QUOTES = [
     {"quote": "The most disastrous thing that you can ever learn is your first programming language.", "author": "Alan Kay"},
     {"quote": "Controlling complexity is the essence of computer programming.", "author": "Brian Kernighan"},
     {"quote": "The best way to get a project done faster is to start sooner.", "author": "Jim Highsmith"},
-    {"quote": "Programming isn’t about what you know; it’s about what you can figure out.", "author": "Chris Pine"},
+    {"quote": "Programming isn't about what you know; it's about what you can figure out.", "author": "Chris Pine"},
     {"quote": "Deleted code is debugged code.", "author": "Jeff Sickel"},
     {"quote": "Testing leads to failure, and failure leads to understanding.", "author": "Burt Rutan"},
     {"quote": "Weeks of coding can save you hours of planning.", "author": "Unknown"},
@@ -39,13 +38,13 @@ FALLBACK_QUOTES = [
     {"quote": "The best performance improvement is the transition from the nonworking state to the working state.", "author": "John Ousterhout"},
     {"quote": "Walking on water and developing software from a specification are easy if both are frozen.", "author": "Edward V. Berard"},
     {"quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.", "author": "Bill Gates"},
-    {"quote": "One man’s crappy software is another man’s full-time job.", "author": "Jessica Gaston"},
-    {"quote": "A language that doesn’t affect the way you think about programming is not worth knowing.", "author": "Alan Perlis"},
+    {"quote": "One man's crappy software is another man's full-time job.", "author": "Jessica Gaston"},
+    {"quote": "A language that doesn't affect the way you think about programming is not worth knowing.", "author": "Alan Perlis"},
     {"quote": "If debugging is the process of removing bugs, then programming must be the process of putting them in.", "author": "Edsger W. Dijkstra"},
     {"quote": "Inside every large program, there is a small program trying to get out.", "author": "Tony Hoare"},
     {"quote": "Good code is its own best documentation.", "author": "Steve McConnell"},
     {"quote": "Any sufficiently advanced technology is indistinguishable from magic.", "author": "Arthur C. Clarke"},
-    {"quote": "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.", "author": "Seymour Cray"},
+    {"quote": "The trouble with programmers is that you can never tell what a programmer is doing until it's too late.", "author": "Seymour Cray"},
     {"quote": "Good code is short, simple, and symmetrical – the challenge is figuring out how to get there.", "author": "Sean Parent"},
     {"quote": "The only way to learn a new programming language is by writing programs in it.", "author": "Dennis Ritchie"},
     {"quote": "Simplicity carried to the extreme becomes elegance.", "author": "Jon Franklin"},
@@ -68,23 +67,46 @@ def fetch_json(url: str, max_retries: int = 5, base_delay: float = 2.0) -> Optio
             with urllib.request.urlopen(req, timeout=20) as r:
                 if r.status == 200:
                     txt = r.read().decode("utf-8")
-                    # Try standard JSON decode; if API returns single quotes/unquoted keys, normalize.
+                    # Debug: Print raw response for troubleshooting
+                    print(f"API Response: {txt[:200]}...")
+                    
                     try:
-                        return json.loads(txt)
-                    except json.JSONDecodeError:
-                        txt2 = re.sub(r"(?P<k>\b\w+\b):", r'"\g<k>":', txt)  # quote unquoted keys
-                        txt2 = txt2.replace("'", '"')  # single -> double quotes
-                        return json.loads(txt2)
-                if r.status == 429 or 500 <= r.status < 600:
+                        data = json.loads(txt)
+                        # Validate that we have the expected structure
+                        if isinstance(data, dict) and 'quote' in data and 'author' in data:
+                            return data
+                        elif isinstance(data, dict) and 'error' in data:
+                            print(f"API Error: {data.get('error')} - {data.get('message', '')}")
+                            return None
+                        else:
+                            print(f"Unexpected API response format: {data}")
+                            return None
+                    except json.JSONDecodeError as e:
+                        print(f"JSON decode error: {e}")
+                        print(f"Raw response: {txt}")
+                        return None
+                        
+                elif r.status == 404:
+                    print("API endpoint not found (404)")
+                    return None
+                elif r.status == 429 or 500 <= r.status < 600:
+                    print(f"Retryable error: HTTP {r.status}")
                     raise urllib.error.HTTPError(url, r.status, "retryable", r.headers, None)
-                raise RuntimeError(f"Non-OK status: {r.status}")
+                else:
+                    print(f"Non-retryable error: HTTP {r.status}")
+                    return None
+                    
         except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError) as e:
             code = getattr(e, "code", None)
+            print(f"Network error (attempt {attempt}/{max_retries}): {e}")
+            
             if code == 429 or (code and 500 <= code < 600) or isinstance(e, urllib.error.URLError):
-                delay = base_delay * (2 ** (attempt - 1)) + random.uniform(0, 0.75)
-                time.sleep(delay)
-                continue
-            # Non-retryable
+                if attempt < max_retries:
+                    delay = base_delay * (2 ** (attempt - 1)) + random.uniform(0, 0.75)
+                    print(f"Retrying in {delay:.2f} seconds...")
+                    time.sleep(delay)
+                    continue
+            # Non-retryable or max retries reached
             return None
     return None
 
@@ -99,33 +121,43 @@ def ensure_markers(readme: str) -> str:
     """
     if "<!--QUOTE_START-->" in readme and "<!--QUOTE_END-->" in readme:
         return readme
-    return readme.rstrip() + "\n\n<!--QUOTE_START-->\n> “Stay curious.” — **Unknown**\n<!--QUOTE_END-->\n"
+    return readme.rstrip() + "\n\n<!--QUOTE_START-->\n> \"Stay curious.\" — **Unknown**\n<!--QUOTE_END-->\n"
 
 def main() -> None:
-    # Try API, then fallback list
+    print("Fetching developer quote...")
+    
+    # Try API first
     data = fetch_json(URL_ENG)
 
-    if data and isinstance(data, dict):
-        # API schema: {"author": "...", "quote": "..."}
-        quote = data.get("quote") or data.get("content") or "Keep learning; keep shipping."
-        author = data.get("author") or data.get("by") or "Unknown"
+    if data and isinstance(data, dict) and 'quote' in data and 'author' in data:
+        print("Successfully fetched quote from API")
+        quote = data["quote"]
+        author = data["author"]
     else:
+        print("API failed, using fallback quote")
         q = random.choice(FALLBACK_QUOTES)
         quote = q["quote"]
         author = q["author"]
 
+    # Clean and escape the quote and author
     quote = md_escape(quote.strip())
     author = md_escape(author.strip())
+    
+    print(f"Selected quote: \"{quote}\" — {author}")
 
-    # Load README
-    with open("README.md", "r", encoding="utf-8") as f:
-        readme = f.read()
+    try:
+        # Load README
+        with open("README.md", "r", encoding="utf-8") as f:
+            readme = f.read()
+    except FileNotFoundError:
+        print("README.md not found, creating a basic one")
+        readme = "# My Project\n\nA sample project with daily developer quotes.\n\n"
 
     # Ensure markers exist
     readme = ensure_markers(readme)
 
     # Build new block (the content BETWEEN markers)
-    new_block = f'> “{quote}” — **{author}**'
+    new_block = f'> \"{quote}\" — **{author}**'
 
     # Replace ONLY the content between markers, preserving the markers
     pattern = re.compile(r"(<!--QUOTE_START-->)(.*?)(<!--QUOTE_END-->)", flags=re.DOTALL)
@@ -135,13 +167,20 @@ def main() -> None:
     if current:
         current_quote = current.group(2).strip()
         if current_quote == new_block:
+            print("Quote hasn't changed, skipping update")
             return  # nothing to change
 
     updated = pattern.sub(lambda m: f"{m.group(1)}\n{new_block}\n{m.group(3)}", readme)
 
     if updated != readme:
-        with open("README.md", "w", encoding="utf-8") as f:
-            f.write(updated)
+        try:
+            with open("README.md", "w", encoding="utf-8") as f:
+                f.write(updated)
+            print("README.md updated successfully!")
+        except Exception as e:
+            print(f"Failed to write README.md: {e}")
+    else:
+        print("No changes needed")
 
 if __name__ == "__main__":
     main()
