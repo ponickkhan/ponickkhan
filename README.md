@@ -1,62 +1,53 @@
-# Hello there 👋, I'm Rafi! 
+# 👋 Hi, I'm Rafi  
 
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
-![PROFILE VIEWS](https://gpvc.arturio.dev/ponickkhan)
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/ponickkhan/ponickkhan?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
-<!-- ![universe-frame](https://i.giphy.com/media/J39gurpvL7SHpnTTJB/giphy.webp "Universe Big Bang") -->
+## 🚀 About Me
+- 💻 Backend Developer passionate about **scalable systems & clean architecture**  
+- 🔐 Interested in **Software Architecture, Security, and Development Patterns**  
+- ⚡ Experienced with **microservices, task queues, distributed workers, and containerized apps**  
+- 🌱 Currently sharpening my **DSA & Machine Learning** knowledge  
+- 📍 Based in **Dhaka, Bangladesh 🇧🇩**  
 
-<!--
-**ponickkhan/ponickkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Frameworks**  
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
-</br>
+**Databases & Messaging**  
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-## &nbsp; **About Me**
+**DevOps & Cloud**  
+![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 
-- 🤓 I'm a Backend Developer
-- 💬 Let's talk about Software Architecture, PHP, Security, Development Patterns.
-- 🏆 I'm an avid improver. Continuously learning how to make the world better.
-- From **Bangladesh** 🇧🇩, now based in **Dhaka**
+**Other Tools**  
+![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+---
 
+## 📊 GitHub Stats
 
-<!-- - 📫 Let's get social: <a href="https://www.linkedin.com/in/ponick/"> <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>   -->
+| ![Stats](https://github-readme-stats.vercel.app/api?username=ponickkhan&show_icons=true&theme=tokyonight&count_private=true&hide=contribs) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponickkhan&layout=compact&theme=tokyonight) |
+| --- | --- |
 
+---
 
+## ✨ Quote of the Day
+> *"I'm interested in creating images that communicate with people."* – Toru Iwatani  
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=awesomewm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-
-## Some of my Github Stats
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=ponickkhan&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/ponickkhan/github-readme-stats)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=ponickkhan&layout=compact)](https://github.com/ponickkhan/github-readme-stats)
-
-
-<!--![ponickkhan's github stats](https://github-readme-stats.vercel.app/api?username=ponickkhan) -->
-
-Quote of the day :
-I'm interested in creating images that communicate with people. - Toru Iwatani
+---
