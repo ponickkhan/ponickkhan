@@ -48,12 +48,10 @@
 ---
 
 ## ✨ Quote of the Day
-\1
-> “Talk is cheap. Show me the code.” — **Linus Torvalds**
-\3
+> “Machines take me by surprise with great frequency.” — **Alan Turing**
  
 ---
 
 
-> “Machines take me by surprise with great frequency.” — **Alan Turing**
+
 
