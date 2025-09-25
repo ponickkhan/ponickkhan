@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> *"I'm interested in creating images that communicate with people."* – Toru Iwatani 
+> “Simplicity is the soul of efficiency.” — **Austin Freeman**
 <!--QUOTE_END-->
  
 ---
