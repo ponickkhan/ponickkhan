@@ -48,6 +48,8 @@
 ---
 
 ## ✨ Quote of the Day
-> *"I'm interested in creating images that communicate with people."* – Toru Iwatani  
-
+<!--QUOTE_START-->
+> *"I'm interested in creating images that communicate with people."* – Toru Iwatani 
+<!--QUOTE_END-->
+ 
 ---
