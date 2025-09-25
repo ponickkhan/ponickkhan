@@ -7,7 +7,7 @@ on:
     - cron: "0 0 * * *" # daily at 00:00 UTC
 
 permissions:
-  contents: write  # needed to push changes
+  contents: write
 
 jobs:
   build:
@@ -16,23 +16,23 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+        with: { fetch-depth: 0 }
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          # NOTE: Do NOT set `cache: pip` unless you have requirements.txt/pyproject.toml
 
-      - name: Run generator
+      - name: Generate quote
         run: python ./scripts/generate_quote.py
+        # Simple step-level retry (GH Actions built-in)
+        retry: 2
+        # If your runner doesn't support `retry`, remove it — the script already retries internally.
 
       - name: Commit & push if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           if ! git diff --quiet; then
             git add -A
             git commit -m "chore: update README with daily quote"
