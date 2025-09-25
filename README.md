@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> “Machines take me by surprise with great frequency.” — **Alan Turing**
+> “Simplicity is prerequisite for reliability.” — **Edsger W. Dijkstra**
 <!--QUOTE_END-->
 
 ---
