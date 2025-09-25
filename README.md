@@ -48,13 +48,9 @@
 ---
 
 ## ✨ Quote of the Day
+<!--QUOTE_START-->
 > “Machines take me by surprise with great frequency.” — **Alan Turing**
- 
+<!--QUOTE_END-->
+
 ---
-
-
-> “The best way to predict the future is to invent it.” — **Alan Kay**
-
-
-> “Code is like humor. When you have to explain it, it’s bad.” — **Cory House**
 
