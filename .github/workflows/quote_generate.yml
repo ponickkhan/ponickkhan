@@ -1,10 +1,10 @@
-# .github/workflows/programming-quotes.yml 
+# .github/workflows/quote_generate.yml
 name: programming quotes generator
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # daily at 00:00 UTC
+    - cron: "0 0 * * *"  # daily at 00:00 UTC
 
 permissions:
   contents: write
@@ -12,11 +12,13 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with: { fetch-depth: 0 }
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -25,14 +27,14 @@ jobs:
 
       - name: Generate quote
         run: python ./scripts/generate_quote.py
-        # Simple step-level retry (GH Actions built-in)
-        retry: 2
-        # If your runner doesn't support `retry`, remove it — the script already retries internally.
 
       - name: Commit & push if changed
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Avoid “dubious ownership” on hosted runners
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+
           if ! git diff --quiet; then
             git add -A
             git commit -m "chore: update README with daily quote"
