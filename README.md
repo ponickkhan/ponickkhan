@@ -48,8 +48,8 @@
 ---
 
 ## ✨ Quote of the Day
-<!--QUOTE_START-->
-> “Simplicity is the soul of efficiency.” — **Austin Freeman**
-<!--QUOTE_END-->
+\1
+> “Talk is cheap. Show me the code.” — **Linus Torvalds**
+\3
  
 ---
