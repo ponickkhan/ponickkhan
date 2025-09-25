@@ -9,7 +9,7 @@ import html
 from typing import Optional, Dict, Any
 
 # Primary API (may be blocked in some environments; script has robust fallback)
-URL_ENG = "https://programming-quotesapi.vercel.app/api/random"
+URL_ENG = "https://dev-quote.42web.io"
 UA = "Mozilla/5.0 (compatible; GitHubActionsBot/1.0; +https://github.com/ponickkhan)"
 
 # Curated fallback quotes (used if API fails/blocks)
