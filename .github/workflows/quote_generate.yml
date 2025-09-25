@@ -1,37 +1,52 @@
 name: programming quotes generator
 
 on:
-  # workflow_dispatch allows to run your workflow manually
   workflow_dispatch:
-  # Run workflow based on specific schedule
   schedule:
-  # This workflow will run every day at 00:00 UTC.
-  # You can use https://crontab.guru/ if cron syntax is
-  # looking weird for you
-  - cron: "0 0 * * *"
+    # Runs every day at 00:00 UTC
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write   # <-- needed to push README updates
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - run: |
-        git fetch --prune --unshallow
-    - name: Set up Python 3.8
-      uses: actions/setup-python@v1
-      with:
-        python-version: 3.8
-    - name: generate
-      run: |
-        python ./scripts/generate_quote.py
-    # Our script updated README.md, but we need to commit all changes
-    - name: Commit and push if changed
-      run: |
-        git add .
-        git diff
-        git config --global user.email "github-action-bot@example.com"
-        git config --global user.name "GitHub Action Bot"
-        git commit -m "Updated README" -a || echo "No changes to commit"
-        git push
+      - name: Checkout (full history so diff works)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      # Optional: install deps if your script needs them
+      # - name: Install dependencies
+      #   run: |
+      #     python -m pip install --upgrade pip
+      #     pip install -r requirements.txt
+
+      - name: Generate quote
+        run: python ./scripts/generate_quote.py
+
+      - name: Commit & push if changed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Only commit when there are changes
+          if ! git diff --quiet; then
+            git add -A
+            git commit -m "chore: update README with daily quote"
+            # Use token-based push (works with protected creds)
+            git push
+          else
+            echo "No changes to commit."
+          fi
