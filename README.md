@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Any sufficiently advanced technology is indistinguishable from magic." — **Arthur C. Clarke**
+> "Talk is cheap. Show me the code." — **Linus Torvalds**
 <!--QUOTE_END-->
 
 ---
