@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Talk is cheap. Show me the code." — **Linus Torvalds**
+> "The trouble with programmers is that you can never tell what a programmer is doing until it's too late." — **Seymour Cray**
 <!--QUOTE_END-->
 
 ---
