@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Before software can be reusable it first has to be usable." — **Ralph Johnson**
+> "Java is to JavaScript what car is to Carpet." — **Chris Heilmann**
 <!--QUOTE_END-->
 
 ---
