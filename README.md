@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Java is to JavaScript what car is to Carpet." — **Chris Heilmann**
+> "Talk is cheap. Show me the code." — **Linus Torvalds**
 <!--QUOTE_END-->
 
 ---
