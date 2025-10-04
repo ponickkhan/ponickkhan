@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The most disastrous thing that you can ever learn is your first programming language." — **Alan Kay**
+> "When in doubt, use brute force." — **Ken Thompson**
 <!--QUOTE_END-->
 
 ---
