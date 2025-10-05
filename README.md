@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "When in doubt, use brute force." — **Ken Thompson**
+> "Premature optimization is the root of all evil." — **Donald Knuth**
 <!--QUOTE_END-->
 
 ---
