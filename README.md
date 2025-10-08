@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The best way to get a project done faster is to start sooner." — **Jim Highsmith**
+> "Optimism is an occupational hazard of programming: feedback is the treatment." — **Kent Beck**
 <!--QUOTE_END-->
 
 ---
