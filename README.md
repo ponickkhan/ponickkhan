@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Optimism is an occupational hazard of programming: feedback is the treatment." — **Kent Beck**
+> "Deleted code is debugged code." — **Jeff Sickel**
 <!--QUOTE_END-->
 
 ---
