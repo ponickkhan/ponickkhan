@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Inside every large program, there is a small program trying to get out." — **Tony Hoare**
+> "Talk is cheap. Show me the code." — **Linus Torvalds**
 <!--QUOTE_END-->
 
 ---
