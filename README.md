@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Good code is short, simple, and symmetrical – the challenge is figuring out how to get there." — **Sean Parent**
+> "Before software can be reusable it first has to be usable." — **Ralph Johnson**
 <!--QUOTE_END-->
 
 ---
