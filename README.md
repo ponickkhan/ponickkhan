@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Programming isn't about what you know; it's about what you can figure out." — **Chris Pine**
+> "Simplicity is prerequisite for reliability." — **Edsger W. Dijkstra**
 <!--QUOTE_END-->
 
 ---
