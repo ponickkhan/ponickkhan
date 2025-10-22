@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "If debugging is the process of removing bugs, then programming must be the process of putting them in." — **Edsger W. Dijkstra**
+> "Java is to JavaScript what car is to Carpet." — **Chris Heilmann**
 <!--QUOTE_END-->
 
 ---
