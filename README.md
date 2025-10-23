@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Java is to JavaScript what car is to Carpet." — **Chris Heilmann**
+> "Good code is its own best documentation." — **Steve McConnell**
 <!--QUOTE_END-->
 
 ---
