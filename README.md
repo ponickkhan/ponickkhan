@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Good code is its own best documentation." — **Steve McConnell**
+> "Controlling complexity is the essence of computer programming." — **Brian Kernighan**
 <!--QUOTE_END-->
 
 ---
