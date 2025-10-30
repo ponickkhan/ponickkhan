@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The function of good software is to make the complex appear simple." — **Grady Booch**
+> "Simplicity is prerequisite for reliability." — **Edsger W. Dijkstra**
 <!--QUOTE_END-->
 
 ---
