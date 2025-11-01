@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Programs must be written for people to read, and only incidentally for machines to execute." — **Harold Abelson**
+> "When in doubt, use brute force." — **Ken Thompson**
 <!--QUOTE_END-->
 
 ---
