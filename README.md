@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "When in doubt, use brute force." — **Ken Thompson**
+> "Code is like humor. When you have to explain it, it's bad." — **Cory House**
 <!--QUOTE_END-->
 
 ---
