@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Experience is the name everyone gives to their mistakes." — **Oscar Wilde**
+> "First, solve the problem. Then, write the code." — **John Johnson**
 <!--QUOTE_END-->
 
 ---
