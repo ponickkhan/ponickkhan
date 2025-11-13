@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The best performance improvement is the transition from the nonworking state to the working state." — **John Ousterhout**
+> "Without requirements or design, programming is the art of adding bugs to an empty text file." — **Louis Srygley**
 <!--QUOTE_END-->
 
 ---
