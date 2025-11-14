@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Without requirements or design, programming is the art of adding bugs to an empty text file." — **Louis Srygley**
+> "Debugging is like being the detective in a crime movie where you are also the murderer." — **Filipe Fortes**
 <!--QUOTE_END-->
 
 ---
