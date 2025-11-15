@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Debugging is like being the detective in a crime movie where you are also the murderer." — **Filipe Fortes**
+> "Before software can be reusable it first has to be usable." — **Ralph Johnson**
 <!--QUOTE_END-->
 
 ---
