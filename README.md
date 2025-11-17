@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "One man's crappy software is another man's full-time job." — **Jessica Gaston**
+> "The best way to get a project done faster is to start sooner." — **Jim Highsmith**
 <!--QUOTE_END-->
 
 ---
