@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The function of good software is to make the complex appear simple." — **Grady Booch**
+> "There are only two kinds of programming languages: those people always complain about and those nobody uses." — **Bjarne Stroustrup**
 <!--QUOTE_END-->
 
 ---
