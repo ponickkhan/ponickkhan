@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "There are only two kinds of programming languages: those people always complain about and those nobody uses." — **Bjarne Stroustrup**
+> "Walking on water and developing software from a specification are easy if both are frozen." — **Edward V. Berard**
 <!--QUOTE_END-->
 
 ---
