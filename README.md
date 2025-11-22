@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Controlling complexity is the essence of computer programming." — **Brian Kernighan**
+> "Simplicity is prerequisite for reliability." — **Edsger W. Dijkstra**
 <!--QUOTE_END-->
 
 ---
