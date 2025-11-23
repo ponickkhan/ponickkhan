@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Simplicity is prerequisite for reliability." — **Edsger W. Dijkstra**
+> "Java is to JavaScript what car is to Carpet." — **Chris Heilmann**
 <!--QUOTE_END-->
 
 ---
