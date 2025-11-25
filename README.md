@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Without requirements or design, programming is the art of adding bugs to an empty text file." — **Louis Srygley**
+> "Simplicity is the soul of efficiency." — **Austin Freeman**
 <!--QUOTE_END-->
 
 ---
