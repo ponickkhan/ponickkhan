@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Any problem in computer science can be solved with another layer of indirection. But that usually will create another problem." — **David Wheeler**
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — **Martin Fowler**
 <!--QUOTE_END-->
 
 ---
