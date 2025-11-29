@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "One man's crappy software is another man's full-time job." — **Jessica Gaston**
+> "Programming isn't about what you know; it's about what you can figure out." — **Chris Pine**
 <!--QUOTE_END-->
 
 ---
