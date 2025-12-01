@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Software is a gas; it expands to fill its container." — **Nathan Myhrvold**
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — **Martin Fowler**
 <!--QUOTE_END-->
 
 ---
