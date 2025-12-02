@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — **Martin Fowler**
+> "The most disastrous thing that you can ever learn is your first programming language." — **Alan Kay**
 <!--QUOTE_END-->
 
 ---
