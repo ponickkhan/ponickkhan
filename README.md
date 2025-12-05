@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — **Martin Fowler**
+> "Walking on water and developing software from a specification are easy if both are frozen." — **Edward V. Berard**
 <!--QUOTE_END-->
 
 ---
