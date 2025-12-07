@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — **Martin Fowler**
+> "The only way to learn a new programming language is by writing programs in it." — **Dennis Ritchie**
 <!--QUOTE_END-->
 
 ---
