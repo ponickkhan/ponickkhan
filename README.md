@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The only way to learn a new programming language is by writing programs in it." — **Dennis Ritchie**
+> "One man's crappy software is another man's full-time job." — **Jessica Gaston**
 <!--QUOTE_END-->
 
 ---
