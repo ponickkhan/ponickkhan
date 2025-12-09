@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "One man's crappy software is another man's full-time job." — **Jessica Gaston**
+> "First, solve the problem. Then, write the code." — **John Johnson**
 <!--QUOTE_END-->
 
 ---
