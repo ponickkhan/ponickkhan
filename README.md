@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Controlling complexity is the essence of computer programming." — **Brian Kernighan**
+> "There are only two kinds of programming languages: those people always complain about and those nobody uses." — **Bjarne Stroustrup**
 <!--QUOTE_END-->
 
 ---
