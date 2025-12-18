@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Measuring programming progress by lines of code is like measuring aircraft building progress by weight." — **Bill Gates**
+> "Java is to JavaScript what car is to Carpet." — **Chris Heilmann**
 <!--QUOTE_END-->
 
 ---
