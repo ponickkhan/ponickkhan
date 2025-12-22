@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Experience is the name everyone gives to their mistakes." — **Oscar Wilde**
+> "Any problem in computer science can be solved with another layer of indirection. But that usually will create another problem." — **David Wheeler**
 <!--QUOTE_END-->
 
 ---
