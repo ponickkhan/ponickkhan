@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Walking on water and developing software from a specification are easy if both are frozen." — **Edward V. Berard**
+> "Optimism is an occupational hazard of programming: feedback is the treatment." — **Kent Beck**
 <!--QUOTE_END-->
 
 ---
