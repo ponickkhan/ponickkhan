@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Good code is its own best documentation." — **Steve McConnell**
+> "Simplicity carried to the extreme becomes elegance." — **Jon Franklin**
 <!--QUOTE_END-->
 
 ---
