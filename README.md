@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Simplicity carried to the extreme becomes elegance." — **Jon Franklin**
+> "Deleted code is debugged code." — **Jeff Sickel**
 <!--QUOTE_END-->
 
 ---
