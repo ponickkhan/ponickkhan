@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "First, solve the problem. Then, write the code." — **John Johnson**
+> "Simplicity carried to the extreme becomes elegance." — **Jon Franklin**
 <!--QUOTE_END-->
 
 ---
