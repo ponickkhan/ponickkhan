@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Simplicity carried to the extreme becomes elegance." — **Jon Franklin**
+> "A language that doesn't affect the way you think about programming is not worth knowing." — **Alan Perlis**
 <!--QUOTE_END-->
 
 ---
