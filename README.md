@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "A language that doesn't affect the way you think about programming is not worth knowing." — **Alan Perlis**
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — **Martin Fowler**
 <!--QUOTE_END-->
 
 ---
