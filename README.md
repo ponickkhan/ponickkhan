@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Programming isn't about what you know; it's about what you can figure out." — **Chris Pine**
+> "Any problem in computer science can be solved with another layer of indirection. But that usually will create another problem." — **David Wheeler**
 <!--QUOTE_END-->
 
 ---
