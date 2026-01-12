@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The function of good software is to make the complex appear simple." — **Grady Booch**
+> "Without requirements or design, programming is the art of adding bugs to an empty text file." — **Louis Srygley**
 <!--QUOTE_END-->
 
 ---
