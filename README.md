@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Debugging is like being the detective in a crime movie where you are also the murderer." — **Filipe Fortes**
+> "A language that doesn't affect the way you think about programming is not worth knowing." — **Alan Perlis**
 <!--QUOTE_END-->
 
 ---
