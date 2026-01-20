@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Experience is the name everyone gives to their mistakes." — **Oscar Wilde**
+> "Without requirements or design, programming is the art of adding bugs to an empty text file." — **Louis Srygley**
 <!--QUOTE_END-->
 
 ---
