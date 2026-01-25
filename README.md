@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The only way to learn a new programming language is by writing programs in it." — **Dennis Ritchie**
+> "Inside every large program, there is a small program trying to get out." — **Tony Hoare**
 <!--QUOTE_END-->
 
 ---
