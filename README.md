@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Inside every large program, there is a small program trying to get out." — **Tony Hoare**
+> "Experience is the name everyone gives to their mistakes." — **Oscar Wilde**
 <!--QUOTE_END-->
 
 ---
