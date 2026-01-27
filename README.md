@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Experience is the name everyone gives to their mistakes." — **Oscar Wilde**
+> "The trouble with programmers is that you can never tell what a programmer is doing until it's too late." — **Seymour Cray**
 <!--QUOTE_END-->
 
 ---
