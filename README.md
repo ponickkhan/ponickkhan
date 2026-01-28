@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The trouble with programmers is that you can never tell what a programmer is doing until it's too late." — **Seymour Cray**
+> "Simplicity is the soul of efficiency." — **Austin Freeman**
 <!--QUOTE_END-->
 
 ---
