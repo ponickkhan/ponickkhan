@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Simplicity is the soul of efficiency." — **Austin Freeman**
+> "Weeks of coding can save you hours of planning." — **Unknown**
 <!--QUOTE_END-->
 
 ---
