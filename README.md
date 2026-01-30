@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Weeks of coding can save you hours of planning." — **Unknown**
+> "Controlling complexity is the essence of computer programming." — **Brian Kernighan**
 <!--QUOTE_END-->
 
 ---
