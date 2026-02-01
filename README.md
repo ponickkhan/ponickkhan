@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Code is like humor. When you have to explain it, it's bad." — **Cory House**
+> "Before software can be reusable it first has to be usable." — **Ralph Johnson**
 <!--QUOTE_END-->
 
 ---
