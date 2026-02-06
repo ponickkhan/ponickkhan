@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The best way to get a project done faster is to start sooner." — **Jim Highsmith**
+> "Premature optimization is the root of all evil." — **Donald Knuth**
 <!--QUOTE_END-->
 
 ---
