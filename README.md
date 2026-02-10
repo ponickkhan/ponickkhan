@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "When in doubt, use brute force." — **Ken Thompson**
+> "Experience is the name everyone gives to their mistakes." — **Oscar Wilde**
 <!--QUOTE_END-->
 
 ---
