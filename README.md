@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Premature optimization is the root of all evil." — **Donald Knuth**
+> "Experience is the name everyone gives to their mistakes." — **Oscar Wilde**
 <!--QUOTE_END-->
 
 ---
