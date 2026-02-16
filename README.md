@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Walking on water and developing software from a specification are easy if both are frozen." — **Edward V. Berard**
+> "Good code is its own best documentation." — **Steve McConnell**
 <!--QUOTE_END-->
 
 ---
