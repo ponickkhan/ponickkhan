@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Programming isn't about what you know; it's about what you can figure out." — **Chris Pine**
+> "Any sufficiently advanced technology is indistinguishable from magic." — **Arthur C. Clarke**
 <!--QUOTE_END-->
 
 ---
