@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Good code is short, simple, and symmetrical – the challenge is figuring out how to get there." — **Sean Parent**
+> "Testing leads to failure, and failure leads to understanding." — **Burt Rutan**
 <!--QUOTE_END-->
 
 ---
