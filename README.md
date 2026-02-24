@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Testing leads to failure, and failure leads to understanding." — **Burt Rutan**
+> "Experience is the name everyone gives to their mistakes." — **Oscar Wilde**
 <!--QUOTE_END-->
 
 ---
