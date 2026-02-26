@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Inside every large program, there is a small program trying to get out." — **Tony Hoare**
+> "The best way to get a project done faster is to start sooner." — **Jim Highsmith**
 <!--QUOTE_END-->
 
 ---
