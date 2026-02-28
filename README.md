@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Programming isn't about what you know; it's about what you can figure out." — **Chris Pine**
+> "Programs must be written for people to read, and only incidentally for machines to execute." — **Harold Abelson**
 <!--QUOTE_END-->
 
 ---
