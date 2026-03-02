@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "When in doubt, use brute force." — **Ken Thompson**
+> "The trouble with programmers is that you can never tell what a programmer is doing until it's too late." — **Seymour Cray**
 <!--QUOTE_END-->
 
 ---
