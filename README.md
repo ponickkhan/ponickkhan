@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The trouble with programmers is that you can never tell what a programmer is doing until it's too late." — **Seymour Cray**
+> "Any sufficiently advanced technology is indistinguishable from magic." — **Arthur C. Clarke**
 <!--QUOTE_END-->
 
 ---
