@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The best performance improvement is the transition from the nonworking state to the working state." — **John Ousterhout**
+> "A language that doesn't affect the way you think about programming is not worth knowing." — **Alan Perlis**
 <!--QUOTE_END-->
 
 ---
