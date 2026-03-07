@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Talk is cheap. Show me the code." — **Linus Torvalds**
+> "Good code is short, simple, and symmetrical – the challenge is figuring out how to get there." — **Sean Parent**
 <!--QUOTE_END-->
 
 ---
