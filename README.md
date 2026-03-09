@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Weeks of coding can save you hours of planning." — **Unknown**
+> "Fix the cause, not the symptom." — **Steve Maguire**
 <!--QUOTE_END-->
 
 ---
