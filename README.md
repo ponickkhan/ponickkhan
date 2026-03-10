@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Fix the cause, not the symptom." — **Steve Maguire**
+> "Good code is its own best documentation." — **Steve McConnell**
 <!--QUOTE_END-->
 
 ---
