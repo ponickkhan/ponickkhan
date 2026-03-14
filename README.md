@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "If debugging is the process of removing bugs, then programming must be the process of putting them in." — **Edsger W. Dijkstra**
+> "Deleted code is debugged code." — **Jeff Sickel**
 <!--QUOTE_END-->
 
 ---
