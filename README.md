@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "There are only two kinds of programming languages: those people always complain about and those nobody uses." — **Bjarne Stroustrup**
+> "Premature optimization is the root of all evil." — **Donald Knuth**
 <!--QUOTE_END-->
 
 ---
