@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Optimism is an occupational hazard of programming: feedback is the treatment." — **Kent Beck**
+> "First, solve the problem. Then, write the code." — **John Johnson**
 <!--QUOTE_END-->
 
 ---
