@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "When in doubt, use brute force." — **Ken Thompson**
+> "Fix the cause, not the symptom." — **Steve Maguire**
 <!--QUOTE_END-->
 
 ---
