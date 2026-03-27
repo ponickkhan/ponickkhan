@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The only way to learn a new programming language is by writing programs in it." — **Dennis Ritchie**
+> "Walking on water and developing software from a specification are easy if both are frozen." — **Edward V. Berard**
 <!--QUOTE_END-->
 
 ---
