@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Walking on water and developing software from a specification are easy if both are frozen." — **Edward V. Berard**
+> "The function of good software is to make the complex appear simple." — **Grady Booch**
 <!--QUOTE_END-->
 
 ---
