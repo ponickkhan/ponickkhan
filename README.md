@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Premature optimization is the root of all evil." — **Donald Knuth**
+> "A language that doesn't affect the way you think about programming is not worth knowing." — **Alan Perlis**
 <!--QUOTE_END-->
 
 ---
