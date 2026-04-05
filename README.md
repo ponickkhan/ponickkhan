@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "A language that doesn't affect the way you think about programming is not worth knowing." — **Alan Perlis**
+> "The best error message is the one that never shows up." — **Thomas Fuchs**
 <!--QUOTE_END-->
 
 ---
