@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The best error message is the one that never shows up." — **Thomas Fuchs**
+> "Good code is short, simple, and symmetrical – the challenge is figuring out how to get there." — **Sean Parent**
 <!--QUOTE_END-->
 
 ---
