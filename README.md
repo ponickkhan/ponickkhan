@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The best way to get a project done faster is to start sooner." — **Jim Highsmith**
+> "Any problem in computer science can be solved with another layer of indirection. But that usually will create another problem." — **David Wheeler**
 <!--QUOTE_END-->
 
 ---
