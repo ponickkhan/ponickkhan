@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Any problem in computer science can be solved with another layer of indirection. But that usually will create another problem." — **David Wheeler**
+> "The best performance improvement is the transition from the nonworking state to the working state." — **John Ousterhout**
 <!--QUOTE_END-->
 
 ---
