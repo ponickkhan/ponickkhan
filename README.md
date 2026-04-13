@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The best performance improvement is the transition from the nonworking state to the working state." — **John Ousterhout**
+> "The function of good software is to make the complex appear simple." — **Grady Booch**
 <!--QUOTE_END-->
 
 ---
