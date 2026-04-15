@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The best way to get a project done faster is to start sooner." — **Jim Highsmith**
+> "When in doubt, use brute force." — **Ken Thompson**
 <!--QUOTE_END-->
 
 ---
