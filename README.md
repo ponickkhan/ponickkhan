@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "When in doubt, use brute force." — **Ken Thompson**
+> "Simplicity carried to the extreme becomes elegance." — **Jon Franklin**
 <!--QUOTE_END-->
 
 ---
