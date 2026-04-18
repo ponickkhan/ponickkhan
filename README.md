@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "A language that doesn't affect the way you think about programming is not worth knowing." — **Alan Perlis**
+> "Code is like humor. When you have to explain it, it's bad." — **Cory House**
 <!--QUOTE_END-->
 
 ---
