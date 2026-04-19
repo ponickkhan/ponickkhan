@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Code is like humor. When you have to explain it, it's bad." — **Cory House**
+> "The best way to get a project done faster is to start sooner." — **Jim Highsmith**
 <!--QUOTE_END-->
 
 ---
