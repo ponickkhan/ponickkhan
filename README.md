@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The best way to get a project done faster is to start sooner." — **Jim Highsmith**
+> "Programming isn't about what you know; it's about what you can figure out." — **Chris Pine**
 <!--QUOTE_END-->
 
 ---
