@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Simplicity is prerequisite for reliability." — **Edsger W. Dijkstra**
+> "The best performance improvement is the transition from the nonworking state to the working state." — **John Ousterhout**
 <!--QUOTE_END-->
 
 ---
