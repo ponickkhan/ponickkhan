@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The best performance improvement is the transition from the nonworking state to the working state." — **John Ousterhout**
+> "Fix the cause, not the symptom." — **Steve Maguire**
 <!--QUOTE_END-->
 
 ---
