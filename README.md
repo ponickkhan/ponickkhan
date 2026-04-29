@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Programming isn't about what you know; it's about what you can figure out." — **Chris Pine**
+> "The best performance improvement is the transition from the nonworking state to the working state." — **John Ousterhout**
 <!--QUOTE_END-->
 
 ---
