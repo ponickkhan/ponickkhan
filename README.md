@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Walking on water and developing software from a specification are easy if both are frozen." — **Edward V. Berard**
+> "Simplicity carried to the extreme becomes elegance." — **Jon Franklin**
 <!--QUOTE_END-->
 
 ---
