@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Simplicity carried to the extreme becomes elegance." — **Jon Franklin**
+> "Measuring programming progress by lines of code is like measuring aircraft building progress by weight." — **Bill Gates**
 <!--QUOTE_END-->
 
 ---
