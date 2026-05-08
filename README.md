@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Any sufficiently advanced technology is indistinguishable from magic." — **Arthur C. Clarke**
+> "Walking on water and developing software from a specification are easy if both are frozen." — **Edward V. Berard**
 <!--QUOTE_END-->
 
 ---
