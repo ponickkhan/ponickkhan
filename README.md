@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Weeks of coding can save you hours of planning." — **Unknown**
+> "Walking on water and developing software from a specification are easy if both are frozen." — **Edward V. Berard**
 <!--QUOTE_END-->
 
 ---
