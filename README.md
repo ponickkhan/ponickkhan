@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The best error message is the one that never shows up." — **Thomas Fuchs**
+> "Optimism is an occupational hazard of programming: feedback is the treatment." — **Kent Beck**
 <!--QUOTE_END-->
 
 ---
