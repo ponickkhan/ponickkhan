@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Optimism is an occupational hazard of programming: feedback is the treatment." — **Kent Beck**
+> "When in doubt, use brute force." — **Ken Thompson**
 <!--QUOTE_END-->
 
 ---
