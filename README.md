@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "When in doubt, use brute force." — **Ken Thompson**
+> "The only way to learn a new programming language is by writing programs in it." — **Dennis Ritchie**
 <!--QUOTE_END-->
 
 ---
