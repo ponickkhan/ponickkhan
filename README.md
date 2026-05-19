@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Premature optimization is the root of all evil." — **Donald Knuth**
+> "One man's crappy software is another man's full-time job." — **Jessica Gaston**
 <!--QUOTE_END-->
 
 ---
