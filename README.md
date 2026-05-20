@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "One man's crappy software is another man's full-time job." — **Jessica Gaston**
+> "If debugging is the process of removing bugs, then programming must be the process of putting them in." — **Edsger W. Dijkstra**
 <!--QUOTE_END-->
 
 ---
