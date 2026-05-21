@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "If debugging is the process of removing bugs, then programming must be the process of putting them in." — **Edsger W. Dijkstra**
+> "Programs must be written for people to read, and only incidentally for machines to execute." — **Harold Abelson**
 <!--QUOTE_END-->
 
 ---
