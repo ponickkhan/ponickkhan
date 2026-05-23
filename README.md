@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Inside every large program, there is a small program trying to get out." — **Tony Hoare**
+> "Measuring programming progress by lines of code is like measuring aircraft building progress by weight." — **Bill Gates**
 <!--QUOTE_END-->
 
 ---
