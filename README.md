@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Measuring programming progress by lines of code is like measuring aircraft building progress by weight." — **Bill Gates**
+> "Software is a gas; it expands to fill its container." — **Nathan Myhrvold**
 <!--QUOTE_END-->
 
 ---
