@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Java is to JavaScript what car is to Carpet." — **Chris Heilmann**
+> "Code is like humor. When you have to explain it, it's bad." — **Cory House**
 <!--QUOTE_END-->
 
 ---
