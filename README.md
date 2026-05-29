@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Simplicity is prerequisite for reliability." — **Edsger W. Dijkstra**
+> "The best error message is the one that never shows up." — **Thomas Fuchs**
 <!--QUOTE_END-->
 
 ---
