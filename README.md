@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "One man's crappy software is another man's full-time job." — **Jessica Gaston**
+> "Software is a gas; it expands to fill its container." — **Nathan Myhrvold**
 <!--QUOTE_END-->
 
 ---
