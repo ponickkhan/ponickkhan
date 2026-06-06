@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "A language that doesn't affect the way you think about programming is not worth knowing." — **Alan Perlis**
+> "Inside every large program, there is a small program trying to get out." — **Tony Hoare**
 <!--QUOTE_END-->
 
 ---
