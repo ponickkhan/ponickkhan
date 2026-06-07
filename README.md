@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Inside every large program, there is a small program trying to get out." — **Tony Hoare**
+> "Debugging is like being the detective in a crime movie where you are also the murderer." — **Filipe Fortes**
 <!--QUOTE_END-->
 
 ---
