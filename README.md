@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Debugging is like being the detective in a crime movie where you are also the murderer." — **Filipe Fortes**
+> "Premature optimization is the root of all evil." — **Donald Knuth**
 <!--QUOTE_END-->
 
 ---
