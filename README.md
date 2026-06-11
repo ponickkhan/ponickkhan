@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "First, solve the problem. Then, write the code." — **John Johnson**
+> "Weeks of coding can save you hours of planning." — **Unknown**
 <!--QUOTE_END-->
 
 ---
