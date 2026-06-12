@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Weeks of coding can save you hours of planning." — **Unknown**
+> "Any sufficiently advanced technology is indistinguishable from magic." — **Arthur C. Clarke**
 <!--QUOTE_END-->
 
 ---
