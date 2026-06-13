@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Any sufficiently advanced technology is indistinguishable from magic." — **Arthur C. Clarke**
+> "Java is to JavaScript what car is to Carpet." — **Chris Heilmann**
 <!--QUOTE_END-->
 
 ---
