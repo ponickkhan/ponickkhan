@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Java is to JavaScript what car is to Carpet." — **Chris Heilmann**
+> "Controlling complexity is the essence of computer programming." — **Brian Kernighan**
 <!--QUOTE_END-->
 
 ---
