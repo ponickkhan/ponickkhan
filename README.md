@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Controlling complexity is the essence of computer programming." — **Brian Kernighan**
+> "The function of good software is to make the complex appear simple." — **Grady Booch**
 <!--QUOTE_END-->
 
 ---
