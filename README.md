@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Good code is its own best documentation." — **Steve McConnell**
+> "Debugging is like being the detective in a crime movie where you are also the murderer." — **Filipe Fortes**
 <!--QUOTE_END-->
 
 ---
