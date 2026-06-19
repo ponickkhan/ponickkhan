@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Debugging is like being the detective in a crime movie where you are also the murderer." — **Filipe Fortes**
+> "The only way to learn a new programming language is by writing programs in it." — **Dennis Ritchie**
 <!--QUOTE_END-->
 
 ---
