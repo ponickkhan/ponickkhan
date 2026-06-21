@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Without requirements or design, programming is the art of adding bugs to an empty text file." — **Louis Srygley**
+> "The only way to learn a new programming language is by writing programs in it." — **Dennis Ritchie**
 <!--QUOTE_END-->
 
 ---
