@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "If debugging is the process of removing bugs, then programming must be the process of putting them in." — **Edsger W. Dijkstra**
+> "The best error message is the one that never shows up." — **Thomas Fuchs**
 <!--QUOTE_END-->
 
 ---
