@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The best error message is the one that never shows up." — **Thomas Fuchs**
+> "The best way to get a project done faster is to start sooner." — **Jim Highsmith**
 <!--QUOTE_END-->
 
 ---
