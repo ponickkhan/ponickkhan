@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "One man's crappy software is another man's full-time job." — **Jessica Gaston**
+> "The most disastrous thing that you can ever learn is your first programming language." — **Alan Kay**
 <!--QUOTE_END-->
 
 ---
