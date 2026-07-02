@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The best performance improvement is the transition from the nonworking state to the working state." — **John Ousterhout**
+> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — **Martin Fowler**
 <!--QUOTE_END-->
 
 ---
