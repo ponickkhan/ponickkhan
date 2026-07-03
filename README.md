@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — **Martin Fowler**
+> "Simplicity carried to the extreme becomes elegance." — **Jon Franklin**
 <!--QUOTE_END-->
 
 ---
