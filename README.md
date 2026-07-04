@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Simplicity carried to the extreme becomes elegance." — **Jon Franklin**
+> "Simplicity is prerequisite for reliability." — **Edsger W. Dijkstra**
 <!--QUOTE_END-->
 
 ---
