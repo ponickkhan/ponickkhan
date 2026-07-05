@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Simplicity is prerequisite for reliability." — **Edsger W. Dijkstra**
+> "Simplicity is the soul of efficiency." — **Austin Freeman**
 <!--QUOTE_END-->
 
 ---
