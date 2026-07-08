@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Talk is cheap. Show me the code." — **Linus Torvalds**
+> "The only way to learn a new programming language is by writing programs in it." — **Dennis Ritchie**
 <!--QUOTE_END-->
 
 ---
