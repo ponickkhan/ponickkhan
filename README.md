@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The only way to learn a new programming language is by writing programs in it." — **Dennis Ritchie**
+> "Controlling complexity is the essence of computer programming." — **Brian Kernighan**
 <!--QUOTE_END-->
 
 ---
