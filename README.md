@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Controlling complexity is the essence of computer programming." — **Brian Kernighan**
+> "Fix the cause, not the symptom." — **Steve Maguire**
 <!--QUOTE_END-->
 
 ---
