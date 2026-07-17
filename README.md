@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Fix the cause, not the symptom." — **Steve Maguire**
+> "Testing leads to failure, and failure leads to understanding." — **Burt Rutan**
 <!--QUOTE_END-->
 
 ---
