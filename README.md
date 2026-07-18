@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Testing leads to failure, and failure leads to understanding." — **Burt Rutan**
+> "There are only two kinds of programming languages: those people always complain about and those nobody uses." — **Bjarne Stroustrup**
 <!--QUOTE_END-->
 
 ---
