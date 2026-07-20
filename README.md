@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Simplicity is the soul of efficiency." — **Austin Freeman**
+> "Good code is its own best documentation." — **Steve McConnell**
 <!--QUOTE_END-->
 
 ---
