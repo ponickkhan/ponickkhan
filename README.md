@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Software is a gas; it expands to fill its container." — **Nathan Myhrvold**
+> "Premature optimization is the root of all evil." — **Donald Knuth**
 <!--QUOTE_END-->
 
 ---
