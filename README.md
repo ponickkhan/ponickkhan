@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Premature optimization is the root of all evil." — **Donald Knuth**
+> "Measuring programming progress by lines of code is like measuring aircraft building progress by weight." — **Bill Gates**
 <!--QUOTE_END-->
 
 ---
