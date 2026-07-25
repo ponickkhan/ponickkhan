@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "If debugging is the process of removing bugs, then programming must be the process of putting them in." — **Edsger W. Dijkstra**
+> "Experience is the name everyone gives to their mistakes." — **Oscar Wilde**
 <!--QUOTE_END-->
 
 ---
