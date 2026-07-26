@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Experience is the name everyone gives to their mistakes." — **Oscar Wilde**
+> "Good code is short, simple, and symmetrical – the challenge is figuring out how to get there." — **Sean Parent**
 <!--QUOTE_END-->
 
 ---
