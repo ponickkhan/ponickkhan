@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Simplicity carried to the extreme becomes elegance." — **Jon Franklin**
+> "Talk is cheap. Show me the code." — **Linus Torvalds**
 <!--QUOTE_END-->
 
 ---
