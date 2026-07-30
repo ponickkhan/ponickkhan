@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Before software can be reusable it first has to be usable." — **Ralph Johnson**
+> "Any sufficiently advanced technology is indistinguishable from magic." — **Arthur C. Clarke**
 <!--QUOTE_END-->
 
 ---
