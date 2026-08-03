@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "When in doubt, use brute force." — **Ken Thompson**
+> "Controlling complexity is the essence of computer programming." — **Brian Kernighan**
 <!--QUOTE_END-->
 
 ---
