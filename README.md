@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Weeks of coding can save you hours of planning." — **Unknown**
+> "The most disastrous thing that you can ever learn is your first programming language." — **Alan Kay**
 <!--QUOTE_END-->
 
 ---
