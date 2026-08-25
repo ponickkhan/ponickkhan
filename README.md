@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The trouble with programmers is that you can never tell what a programmer is doing until it's too late." — **Seymour Cray**
+> "Programs must be written for people to read, and only incidentally for machines to execute." — **Harold Abelson**
 <!--QUOTE_END-->
 
 ---
