@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Without requirements or design, programming is the art of adding bugs to an empty text file." — **Louis Srygley**
+> "Inside every large program, there is a small program trying to get out." — **Tony Hoare**
 <!--QUOTE_END-->
 
 ---
