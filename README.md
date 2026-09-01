@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "There are only two kinds of programming languages: those people always complain about and those nobody uses." — **Bjarne Stroustrup**
+> "Without requirements or design, programming is the art of adding bugs to an empty text file." — **Louis Srygley**
 <!--QUOTE_END-->
 
 ---
