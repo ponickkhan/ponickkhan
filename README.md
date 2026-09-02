@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Without requirements or design, programming is the art of adding bugs to an empty text file." — **Louis Srygley**
+> "Testing leads to failure, and failure leads to understanding." — **Burt Rutan**
 <!--QUOTE_END-->
 
 ---
