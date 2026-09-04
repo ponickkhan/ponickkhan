@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Any sufficiently advanced technology is indistinguishable from magic." — **Arthur C. Clarke**
+> "Fix the cause, not the symptom." — **Steve Maguire**
 <!--QUOTE_END-->
 
 ---
