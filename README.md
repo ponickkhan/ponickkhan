@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Fix the cause, not the symptom." — **Steve Maguire**
+> "One man's crappy software is another man's full-time job." — **Jessica Gaston**
 <!--QUOTE_END-->
 
 ---
