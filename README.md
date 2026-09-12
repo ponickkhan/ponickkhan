@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Any problem in computer science can be solved with another layer of indirection. But that usually will create another problem." — **David Wheeler**
+> "The best error message is the one that never shows up." — **Thomas Fuchs**
 <!--QUOTE_END-->
 
 ---
