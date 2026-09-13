@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The best error message is the one that never shows up." — **Thomas Fuchs**
+> "Weeks of coding can save you hours of planning." — **Unknown**
 <!--QUOTE_END-->
 
 ---
