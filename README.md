@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "A language that doesn't affect the way you think about programming is not worth knowing." — **Alan Perlis**
+> "Any problem in computer science can be solved with another layer of indirection. But that usually will create another problem." — **David Wheeler**
 <!--QUOTE_END-->
 
 ---
