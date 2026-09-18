@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Good code is short, simple, and symmetrical – the challenge is figuring out how to get there." — **Sean Parent**
+> "Weeks of coding can save you hours of planning." — **Unknown**
 <!--QUOTE_END-->
 
 ---
