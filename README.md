@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Weeks of coding can save you hours of planning." — **Unknown**
+> "Inside every large program, there is a small program trying to get out." — **Tony Hoare**
 <!--QUOTE_END-->
 
 ---
