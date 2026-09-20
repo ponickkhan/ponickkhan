@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Inside every large program, there is a small program trying to get out." — **Tony Hoare**
+> "Code is like humor. When you have to explain it, it's bad." — **Cory House**
 <!--QUOTE_END-->
 
 ---
