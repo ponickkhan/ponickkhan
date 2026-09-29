@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Simplicity carried to the extreme becomes elegance." — **Jon Franklin**
+> "The trouble with programmers is that you can never tell what a programmer is doing until it's too late." — **Seymour Cray**
 <!--QUOTE_END-->
 
 ---
