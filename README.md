@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The trouble with programmers is that you can never tell what a programmer is doing until it's too late." — **Seymour Cray**
+> "Before software can be reusable it first has to be usable." — **Ralph Johnson**
 <!--QUOTE_END-->
 
 ---
