@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The only way to learn a new programming language is by writing programs in it." — **Dennis Ritchie**
+> "Programs must be written for people to read, and only incidentally for machines to execute." — **Harold Abelson**
 <!--QUOTE_END-->
 
 ---
