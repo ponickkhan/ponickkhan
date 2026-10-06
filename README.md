@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "There are only two kinds of programming languages: those people always complain about and those nobody uses." — **Bjarne Stroustrup**
+> "The trouble with programmers is that you can never tell what a programmer is doing until it's too late." — **Seymour Cray**
 <!--QUOTE_END-->
 
 ---
