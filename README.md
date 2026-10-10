@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Measuring programming progress by lines of code is like measuring aircraft building progress by weight." — **Bill Gates**
+> "The best error message is the one that never shows up." — **Thomas Fuchs**
 <!--QUOTE_END-->
 
 ---
