@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Any sufficiently advanced technology is indistinguishable from magic." — **Arthur C. Clarke**
+> "One man's crappy software is another man's full-time job." — **Jessica Gaston**
 <!--QUOTE_END-->
 
 ---
