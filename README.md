@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Before software can be reusable it first has to be usable." — **Ralph Johnson**
+> "Without requirements or design, programming is the art of adding bugs to an empty text file." — **Louis Srygley**
 <!--QUOTE_END-->
 
 ---
