@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Without requirements or design, programming is the art of adding bugs to an empty text file." — **Louis Srygley**
+> "Measuring programming progress by lines of code is like measuring aircraft building progress by weight." — **Bill Gates**
 <!--QUOTE_END-->
 
 ---
