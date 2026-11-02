@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "The best performance improvement is the transition from the nonworking state to the working state." — **John Ousterhout**
+> "Testing leads to failure, and failure leads to understanding." — **Burt Rutan**
 <!--QUOTE_END-->
 
 ---
