@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Measuring programming progress by lines of code is like measuring aircraft building progress by weight." — **Bill Gates**
+> "Debugging is like being the detective in a crime movie where you are also the murderer." — **Filipe Fortes**
 <!--QUOTE_END-->
 
 ---
