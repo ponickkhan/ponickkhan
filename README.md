@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Debugging is like being the detective in a crime movie where you are also the murderer." — **Filipe Fortes**
+> "Talk is cheap. Show me the code." — **Linus Torvalds**
 <!--QUOTE_END-->
 
 ---
