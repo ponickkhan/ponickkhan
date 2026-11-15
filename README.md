@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Software is a gas; it expands to fill its container." — **Nathan Myhrvold**
+> "Simplicity is the soul of efficiency." — **Austin Freeman**
 <!--QUOTE_END-->
 
 ---
