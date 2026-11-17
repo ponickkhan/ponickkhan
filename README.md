@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Before software can be reusable it first has to be usable." — **Ralph Johnson**
+> "Good code is its own best documentation." — **Steve McConnell**
 <!--QUOTE_END-->
 
 ---
