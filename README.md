@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "When in doubt, use brute force." — **Ken Thompson**
+> "Simplicity is the soul of efficiency." — **Austin Freeman**
 <!--QUOTE_END-->
 
 ---
