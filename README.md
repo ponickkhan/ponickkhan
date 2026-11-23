@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Any sufficiently advanced technology is indistinguishable from magic." — **Arthur C. Clarke**
+> "Measuring programming progress by lines of code is like measuring aircraft building progress by weight." — **Bill Gates**
 <!--QUOTE_END-->
 
 ---
