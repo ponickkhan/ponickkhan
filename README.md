@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Measuring programming progress by lines of code is like measuring aircraft building progress by weight." — **Bill Gates**
+> "Any problem in computer science can be solved with another layer of indirection. But that usually will create another problem." — **David Wheeler**
 <!--QUOTE_END-->
 
 ---
