@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "Any problem in computer science can be solved with another layer of indirection. But that usually will create another problem." — **David Wheeler**
+> "Deleted code is debugged code." — **Jeff Sickel**
 <!--QUOTE_END-->
 
 ---
