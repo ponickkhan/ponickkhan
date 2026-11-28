@@ -49,7 +49,7 @@
 
 ## ✨ Quote of the Day
 <!--QUOTE_START-->
-> "If debugging is the process of removing bugs, then programming must be the process of putting them in." — **Edsger W. Dijkstra**
+> "Inside every large program, there is a small program trying to get out." — **Tony Hoare**
 <!--QUOTE_END-->
 
 ---
